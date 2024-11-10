@@ -1,0 +1,85 @@
+{
+  "host": "veggie-einhorn.de",
+  "canonical_url": "https://byanjushka.com/veganes-gulasch-soja-paprika-11906/",
+  "site_name": "byanjushka",
+  "author": "Anja Romaniszyn",
+  "language": "de-DE",
+  "title": "Veganes Gulasch mit Soja & Paprika",
+  "ingredients": [
+    "70 g Sojawürfel",
+    "2 EL Öl",
+    "30 ml Sojasoße",
+    "1 EL Tomatenmark",
+    "1 EL Balsamico Aceto",
+    "1 TL brauner Zucker",
+    "2 EL Öl",
+    "2 Schalotten",
+    "1 Knoblauchzehe",
+    "1 rote Paprika",
+    "2 EL Tomatenmark",
+    "1 TL Paprika Edelsüß",
+    "1 TL Paprika Rosenscharf",
+    "½ TL Majoran",
+    "1 TL Zitronenabrieb",
+    "Salz und Pfeffer",
+    "1 EL Mehl",
+    "300 ml Rotwein (oder mehr Brühe)",
+    "200 ml Brühe",
+    "1 EL Sojasoße",
+    "1 TL Senf"
+  ],
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        "70 g Sojawürfel"
+      ],
+      "purpose": null
+    },
+    {
+      "ingredients": [
+        "2 EL Öl",
+        "30 ml Sojasoße",
+        "1 EL Tomatenmark",
+        "1 EL Balsamico Aceto",
+        "1 TL brauner Zucker"
+      ],
+      "purpose": "Marinade"
+    },
+    {
+      "ingredients": [
+        "2 EL Öl",
+        "2 Schalotten",
+        "1 Knoblauchzehe",
+        "1 rote Paprika",
+        "2 EL Tomatenmark",
+        "1 TL Paprika Edelsüß",
+        "1 TL Paprika Rosenscharf",
+        "½ TL Majoran",
+        "1 TL Zitronenabrieb",
+        "Salz und Pfeffer",
+        "1 EL Mehl",
+        "300 ml Rotwein (oder mehr Brühe)",
+        "200 ml Brühe",
+        "1 EL Sojasoße",
+        "1 TL Senf"
+      ],
+      "purpose": "Gulasch"
+    }
+  ],
+  "instructions_list": [
+    "Sojawürfel zunächst 10-12 Minuten in heißem Wasser einweichen. Währenddessen das Gemüse klein schneiden.",
+    "Das Wasser abgießen, die Flüssigkeit aus den Würfeln drücken und trocken tupfen.",
+    "Alle Zutaten für die Marinade verrühren und mit den Würfeln vermengen. 15 Minuten stehen lassen.",
+    "Öl in einer Pfanne erhitzen und die marinierten Sojawürfel 10 Minuten anbraten. Schalotten, Knoblauch und Paprika hinzugeben und weitere 5 Minuten anbraten.",
+    "Tomatenmark und Gewürze hinzugeben und kurz anrösten.",
+    "Mit Mehl bestäuben, gut verrühren und mit Rotwein ablöschen. Dann Brühe, Sojasoße und Senf hinzugeben und umrühren.",
+    "Etwa 20 bis 30 Minuten leicht köcheln lassen.",
+    "Zum Schluss nach Geschmack nochmal abschmecken. Sollte das Gulasch zu dickflüssig sein, etwas mehr Wasser oder Brühe hinzugeben. Anschließend servieren."
+  ],
+  "total_time": 80,
+  "prep_time": 30,
+  "cook_time": 50,
+  "yields": "2 servings",
+  "image": "https://byanjushka.com/wp-content/uploads/2024/02/veganes-gulasch-9.jpg",
+  "description": "Veganes Gulasch kannst du mit meinem beliebten Rezept ganz einfach selber machen! Das Gulasch ohne Fleisch wird aus Sojawürfel zubereitet, die mariniert werden und unglaublich lecker und saftig schmecken."
+}

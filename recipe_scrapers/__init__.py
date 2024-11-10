@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from .wprm import Wprm
+
 __all__ = (
     "AbstractScraper",
     "ElementNotFoundInHtml",
@@ -913,6 +915,9 @@ def scrape_html(
             "request on our bugtracker."
         )
         raise WebsiteNotImplementedError(msg)
+
+    if html is not None and "wprm-recipe-ingredient" in html:
+        return Wprm(html=html, url=org_url)
 
     schema_scraper = SchemaScraperFactory.generate(html=html, url=org_url)
     if schema_scraper.schema.data:

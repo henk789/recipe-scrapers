@@ -1,0 +1,65 @@
+{
+  "host": "veggie-einhorn.de",
+  "canonical_url": "https://proveg.com/de/vegane-rezepte/erdnusscurry/",
+  "site_name": "ProVeg Deutschland",
+  "author": "jessicabaker",
+  "language": "de",
+  "title": "Erdnusscurry",
+  "ingredients": [
+    "1 Zwiebel",
+    "2 EL neutrales Öl",
+    "1 Karotte",
+    "½ Zucchini",
+    "100 g Erbsen (wahlweise frisch oder tiefgekühlt)",
+    "20 g Ingwer",
+    "1 Zehe Knoblauch",
+    "200 ml Wasser",
+    "150 g Erdnussmus",
+    "½ TL Gemüsebrühe (gegebenenfalls etwas mehr)",
+    "150 ml Kokosmilch",
+    "1 TL Salz",
+    "1 TL Madras-Currypulver",
+    "100 g passierte Tomaten",
+    "¼ TL Garam Masala (indische Gewürzmischung)",
+    "Cayennepfeffer (optional, zum Garnieren)",
+    "Chili (optional, zum Garnieren)",
+    "Erdnüsse (optional, zum Garnieren)"
+  ],
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        "1 Zwiebel",
+        "2 EL neutrales Öl",
+        "1 Karotte",
+        "½ Zucchini",
+        "100 g Erbsen (wahlweise frisch oder tiefgekühlt)",
+        "20 g Ingwer",
+        "1 Zehe Knoblauch",
+        "200 ml Wasser",
+        "150 g Erdnussmus",
+        "½ TL Gemüsebrühe (gegebenenfalls etwas mehr)",
+        "150 ml Kokosmilch",
+        "1 TL Salz",
+        "1 TL Madras-Currypulver",
+        "100 g passierte Tomaten",
+        "¼ TL Garam Masala (indische Gewürzmischung)",
+        "Cayennepfeffer (optional, zum Garnieren)",
+        "Chili (optional, zum Garnieren)",
+        "Erdnüsse (optional, zum Garnieren)"
+      ],
+      "purpose": null
+    }
+  ],
+  "instructions_list": [
+    "Die Zwiebel schälen, klein schneiden und in dem Öl in einem Topf anbraten.",
+    "Die Karotte und die Zucchini waschen, die Enden entfernen, längs halbieren und in 5 mm dicke Scheiben schneiden. Mit in den Topf geben und 5 Minuten mit anbraten. Dann die Erbsen untermischen.",
+    "Den Ingwer und den Knoblauch schälen. Dann das Wasser (bis auf etwa 3 EL), den Ingwer, den Knoblauch, das Erdnussmus, das Gemüsebrühepulver, die Kokosmilch, das Salz und das Madras-Currypulver in ein hohes Gefäß geben und pürieren, dann zum Gemüse in den Topf geben. Anschließend das Püriergefäß mit dem restlichen Wasser ausschwenken und in den Topf geben, damit nichts von der Würzsoße verloren geht.",
+    "Jetzt die passierten Tomaten, das Garam Masala und optional den Cayennepfeffer in den Topf geben und circa 10 Minuten leicht köcheln lassen. Abschmecken, optional mit etwas Chili und Erdnüssen garnieren und servieren. Guten Appetit!"
+  ],
+  "total_time": 45,
+  "prep_time": 10,
+  "cook_time": 35,
+  "yields": "3 servings",
+  "image": "https://proveg.com/de/wp-content/uploads/sites/5/2023/04/0802.jpg",
+  "description": "Dieses Erdnusscurry ist ein leckeres, warmes Wohlfühlgericht. Es lässt sich einfach variieren und schmeckt grandios. Ob als schnelles Abendessen oder Meal-Prep: Das cremige Erdnusscurry ist vielseitig einsetzbar und auch mit verschiedenen Beilagen richtig lecker!"
+}

@@ -152,7 +152,7 @@ def test_func_factory(
 
             string_instructions_normalized = [
                 instruction.strip()
-                for instruction in actual.instructions().split("\n")
+                for instruction in actual.instructions_list()  # actual.instructions().split("\n")
                 if instruction.strip()
             ]
 
@@ -160,7 +160,7 @@ def test_func_factory(
                 self.assertEqual(
                     string_instructions_normalized,
                     list_instructions_normalized,
-                    msg="The actual value for .instructions() did not match the value from instructions_list.",
+                    msg="The actual value for .instructions_list() did not match the value from instructions_list.",
                 )
 
     return test_func

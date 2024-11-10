@@ -1,0 +1,65 @@
+{
+  "host": "veggie-einhorn.de",
+  "canonical_url": "https://biancazapatka.com/de/veganes-huehnerfrikassee/",
+  "site_name": "Bianca Zapatka",
+  "author": "Bianca Zapatka",
+  "language": "de-DE",
+  "title": "Veganes Hühnerfrikassee (schnell & einfach)",
+  "ingredients": [
+    "1-2 EL Öl (zum Braten)",
+    "180 g Veganes „Hähnchen“ (z. B. Like Chicken)",
+    "1 Zwiebel (fein gehackt)",
+    "150 g Möhren (fein gewürfelt)",
+    "150 g Champignons (geviertelt)",
+    "150 g TK-Erbsen",
+    "25 g Vegane Butter",
+    "25 g Mehl (Weizen-, Dinkel- oder glutenfreies Mehl)",
+    "100 ml Weißwein (oder Wasser)",
+    "250 ml Gemüsebrühe (oder mehr bei Bedarf)",
+    "150 ml Hafer Cuisine (oder eine andere pflanzliche Sahne)",
+    "Salz & Pfeffer (nach Geschmack)",
+    "1 Spritzer Zitronensaft",
+    "Reis",
+    "Petersilie"
+  ],
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        "1-2 EL Öl (zum Braten)",
+        "180 g Veganes „Hähnchen“ (z. B. Like Chicken)",
+        "1 Zwiebel (fein gehackt)",
+        "150 g Möhren (fein gewürfelt)",
+        "150 g Champignons (geviertelt)",
+        "150 g TK-Erbsen",
+        "25 g Vegane Butter",
+        "25 g Mehl (Weizen-, Dinkel- oder glutenfreies Mehl)",
+        "100 ml Weißwein (oder Wasser)",
+        "250 ml Gemüsebrühe (oder mehr bei Bedarf)",
+        "150 ml Hafer Cuisine (oder eine andere pflanzliche Sahne)",
+        "Salz & Pfeffer (nach Geschmack)",
+        "1 Spritzer Zitronensaft"
+      ],
+      "purpose": null
+    },
+    {
+      "ingredients": [
+        "Reis",
+        "Petersilie"
+      ],
+      "purpose": "Zum Servieren"
+    }
+  ],
+  "instructions_list": [
+    "Die Zwiebel abziehen und würfeln. Die Möhre schälen und klein würfeln. Die Champignons putzen und vierteln.",
+    "Etwas Öl in einer Pfanne erhitzen und das veganes Hähnchenfleisch 2-3 Minuten scharf anbraten. Das Gemüse dazugeben und weitere 2-3 weitere Minuten bei mittlerer Hitze braten. Die Erbsen unterrühren und die Pfanne vom Herd nehmen.",
+    "Parallel dazu die vegane Butter in einem Topf langsam schmelzen lassen. Das Mehl mit einem Schneebesen einrühren und kurz anschwitzen. Mit Weißwein ablöschen und dabei gut rühren. Nach und nach die Brühe hinzugeben, bis eine sämige Konsistenz erreicht ist. Hafer Cuisine und gebratenes veganes Hähnchen samt Gemüse dazugeben und alles 8-10 Minuten bei schwacher Hitze köcheln lassen, dabei ab und zu umrühren. Anschließend mit Salz und Pfeffer sowie einem Spritzer Zitronensaft abschmecken.",
+    "In der Zwischenzeit den Reis laut Packungsanweisung kochen.",
+    "Das vegane Hühnerfrikassee mit gekochtem Reis und fein gehackter Petersilie servieren. Guten Appetit!"
+  ],
+  "total_time": 20,
+  "prep_time": 5,
+  "cook_time": 15,
+  "yields": "4 servings",
+  "image": "https://biancazapatka.com/wp-content/uploads/2024/09/huehnerfrikassee-oma.jpg",
+  "description": "Dieses Vegane Hühnerfrikassee mit Champignons, Erbsen und Möhren ist so lecker wie damals bei Oma - Mit diesem einfachen Rezept kannst du den beliebten Familien-Klassiker ganz schnell in nur 20 Minuten selber kochen!"
+}

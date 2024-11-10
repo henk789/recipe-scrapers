@@ -1,0 +1,83 @@
+{
+  "host": "veggie-einhorn.de",
+  "canonical_url": "https://veggie-einhorn.de/saftige-vegane-zimtschnecken/",
+  "site_name": "Veggie Einhorn",
+  "author": "Karen Wilkening",
+  "language": "de",
+  "title": "Vegane Zimtschnecken",
+  "ingredients": [
+    "500 g Mehl",
+    "1 Päckchen Trockenhefe (oder ½ Würfel frische Hefe)",
+    "100 g Zucker",
+    "½ TL Salz",
+    "50 g vegane Butter (Alsan Margarine)",
+    "250 g vegane Milch (= 250 ml (z.B. Sojamilch, Hafermilch...))",
+    "60 g vegane Butter (Alsan Margarine)",
+    "60 g Zucker",
+    "2 TL Zimt",
+    "100 g Puderzucker",
+    "1 EL vegane Milch (oder Pflanzensahne (Soja Cuisine, Hafer Cuisine...))"
+  ],
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        "500 g Mehl",
+        "1 Päckchen Trockenhefe (oder ½ Würfel frische Hefe)",
+        "100 g Zucker",
+        "½ TL Salz",
+        "50 g vegane Butter (Alsan Margarine)",
+        "250 g vegane Milch (= 250 ml (z.B. Sojamilch, Hafermilch...))"
+      ],
+      "purpose": "Hefeteig"
+    },
+    {
+      "ingredients": [
+        "60 g vegane Butter (Alsan Margarine)",
+        "60 g Zucker",
+        "2 TL Zimt"
+      ],
+      "purpose": "Zimtfüllung"
+    },
+    {
+      "ingredients": [
+        "100 g Puderzucker",
+        "1 EL vegane Milch (oder Pflanzensahne (Soja Cuisine, Hafer Cuisine...))"
+      ],
+      "purpose": "Zuckerguss"
+    }
+  ],
+  "instructions_list": [
+    "In einer Schüssel mischen:\n500 g Mehl\n1 Päckchen Trockenhefe\n100 g Zucker\n½ TL Salz",
+    "Die trockenen Zutaten gut vermischen.",
+    "Zufügen:\n250 g Pflanzenmilch (= 250 ml z.B. Sojamilch, Hafermilch, Mandelmilch)\n50 g vegane Butter (Alsan Margarine)\nDie vegane Butter muss weich sein (Zimmertemperatur).\n(Falls Du frische Hefe verwendest: ½ Würfel jetzt mit zufügen.)",
+    "Den Teig 10 Minuten kneten.\nMit den Knethaken eines Handmixers oder mit einer Küchenmaschine.\nNicht mehr Flüssigkeit zufügen. Es dauert ca. 4 Minuten, bis sich alles schön verbindet.\nInsgesamt 10 Minuten kneten, bis der Teig schön glatt ist und nicht mehr klebt.",
+    "Die Schüssel mit dem Teig mit einem feuchten Tuch oder Frischhaltefolie bedecken.\nEine Stunde gehen lassen.\n(Länger geht auch.)",
+    "60 g vegane Butter (Alsan Margarine) schmelzen.\n(In einem kleinen Topf oder ganz kurz in der Mikrowelle)\nNicht zu heiß. Nur so warm, dass es gerade flüssig wird.",
+    "Zu der geschmolzenen Margarine zufügen:\n60 g Zucker\n2 TL Zimt\nGut umrühren.",
+    "Dann die Masse abkühlen lassen, damit sie fester wird.\nWenn die Füllung zu warm ist, ist sie zu flüssig und läuft leicht aus den Zimtschnecken raus.\nDeswegen abkühlen lassen.\n(Oder den Teig mit weicher Margarine bestreichen und dann mit trockener Zucker-Zimt-Mischung bestreuen.)",
+    "Eine Auflaufform (ca. 25 x 35 cm) einfetten.",
+    "Arbeitsfläche und Nudelholz mit etwas Mehl bestäuben.",
+    "Den Hefeteig rechteckig ausrollen.\nCa. 30 x 42 cm\nEs kommt nicht so ganz genau auf die Maße an.\nHauptsache es ist ein Rechteck.\n(Nicht oval.)",
+    "Die Füllung auf dem Teig verteilen und gleichmäßig verstreichen.\n(Oder den Teig mit weicher Margarine bestreichen und dann mit trockener Zucker-Zimt-Mischung bestreuen.)",
+    "Den Teig von der langen Seite her aufrollen.\n(Du hast dann eine ca. 42 cm lange Rolle.)",
+    "Die Rolle in Scheiben schneiden.\nMit einem scharfen Messer.\n12 Scheiben.\nCa. 3,5 cm dick.\n(Oder einen Faden darum legen und zuziehen zum Durchschneiden. Das geht z.B. mit Zahnseide. Ich nehme aber immer ein scharfes Messer, das geht schneller.)",
+    "Die Scheiben in die eingefettete Auflaufform legen.\n(z.B. 3 Reihen mit je 4 Zimtschnecken)",
+    "Die Auflaufform mit einem feuchten Tuch bedecken.\nDie Zimtschnecken nochmal 30 Minuten gehen lassen.",
+    "Backofen vorheizen auf 180 °C (Ober-Unterhitze).",
+    "Die Zimtschnecken in der Auflaufform mit etwas Wasser besprühen oder bepinseln.\n(Nicht zuviel.)\nDann sofort in den Ofen schieben (mittlere Schiene).",
+    "25 Minuten backen bei 180 °C (Ober-Unterhitze).\nDie Zimtschnecken sollen schön goldbraun sein.",
+    "Etwas abkühlen lassen.",
+    "Für den Guss 100 g Puderzucker sieben.",
+    "Mit 1 EL Pflanzenmilch glatt rühren.\n(Nicht zu viel Flüssigkeit, sonst wird die Glasur zu dünnflüssig).",
+    "Den Zuckerguss über die lauwarmen Zimtschnecken verteilen."
+  ],
+  "total_time": 115,
+  "cook_time": 25,
+  "yields": "12 servings",
+  "image": "https://veggie-einhorn.de/wp-content/uploads/Vegane-Zimtschnecken.jpg",
+  "description": "Einfaches veganes Rezept für fluffige und saftige Zimtschnecken.",
+  "equipment": [
+    "Auflaufform (ca. 25 x 35 cm)",
+    "Nudelholz"
+  ]
+}
