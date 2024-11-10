@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from .wprm import Wprm
+from .zuckerundjagdwurst import ZuckerUndJagdwurst
 
 __all__ = (
     "AbstractScraper",
@@ -812,6 +813,7 @@ SCRAPERS = {
     ZenBelly.host(): ZenBelly,
     GesundAktiv.host(): GesundAktiv,
     UitPaulinesKeukenNL.host(): UitPaulinesKeukenNL,
+    ZuckerUndJagdwurst.host(): ZuckerUndJagdwurst,
 }
 
 
@@ -916,7 +918,9 @@ def scrape_html(
         )
         raise WebsiteNotImplementedError(msg)
 
-    if html is not None and "wprm-recipe-ingredient" in html:
+    if html is not None and (
+        isinstance(html, str) and "wprm-recipe-ingredient" in html
+    ):
         return Wprm(html=html, url=org_url)
 
     schema_scraper = SchemaScraperFactory.generate(html=html, url=org_url)
