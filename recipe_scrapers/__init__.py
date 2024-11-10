@@ -812,7 +812,7 @@ SCRAPERS = {
     ZenBelly.host(): ZenBelly,
     GesundAktiv.host(): GesundAktiv,
     UitPaulinesKeukenNL.host(): UitPaulinesKeukenNL,
-    ZuckerUndJagdwurst.host(): ZuckerUndJagdwurst,
+    # ZuckerUndJagdwurst.host(): ZuckerUndJagdwurst,
 }
 
 
