@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from .wprm import Wprm
-from .zuckerundjagdwurst import ZuckerUndJagdwurst
 
 __all__ = (
     "AbstractScraper",
